@@ -1,6 +1,8 @@
 THE LINK BELOW IS THE ONE TO MY PRESENTATION VIDEO 
 https://drive.google.com/file/d/1Cla-YBZ2x5nyU61iF0Zt-hvNHL1ktuK2/view?usp=sharing
-[cite_start]This README file is based on the technical documentation for the **Banking Customer Details Management System (BCDMS)**, a project designed for the Database Systems course at Mbarara University of Science and Technology[cite: 95, 102].
+and this is the link to youtube 
+https://youtu.be/0RvjIo8b3GA
+This README file is based on the technical documentation for the **Banking Customer Details Management System (BCDMS)**, a project designed for the Database Systems course at Mbarara University of Science and Technology[cite: 95, 102].
 
  Banking Customer Details Management System (BCDMS)
 
